@@ -26,13 +26,21 @@ Peter har en opsparingskonto i sin bank, som giver en rente på 2% pro anno.
 
 
 ##3. Opgave 3 - Peters computer
-Peter køber en bærbar computer i i juli. Den har målene 21,5cm x 32,3cm x 1,4cm.
+Peter køber en bærbar computer i juli og betalte 10.000 kr. for den. Den har målene 21,5cm x 32,3cm x 1,4cm.
 
-3.1: Tegn Peters computer set ovenfra på millimererpapir
+3.1: Peter fik 20% rabat da han købte computeren. Hvad kostede den før rabatten?
 
-3.2 Hvor start er arealet af Peters computer?
+3.2: Tegn Peters computer set ovenfra på millimererpapir
 
-3.3: Hvad er rumfanget af Peters computer?
+3.3: Hvor start er arealet af Peters computer?
 
+3.4: Hvad er rumfanget af Peters computer?
+
+3.5: Den computer Peter købte kunne får i 3 forskellige farver, med Windows eller Linux og med tre forskellige harddisk størrelser. Hvor mange forskellige kombinationer kunne Peter vælge i mellem?
+
+3.6: Strømforsyningen til Peters computer ar 6cm høj og 8cm lang. Hvor start er diagonalen på strømforsyningen?
+
+
+##3. Opgave 3 - Peters computer
 
 
