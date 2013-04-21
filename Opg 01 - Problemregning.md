@@ -2,7 +2,7 @@
 
 
 ##1. Opgave 1 - Peters job som avisbud
-Peter havde et fritidsjob som avisbud i 2011 og har aftalt at han får en timeløn på 55,32 kr. / time. Peter var 16 år. i 2011.
+Peter havde et fritidsjob som avisbud i 2011 og har aftalt at han får en timeløn på 55,32 kr. / time. Peter var 16 år i 2011.
 
 1.1: Peter arbejdede i alt 27 timer i februar måned. Hvad er hans løn i februar?
 
