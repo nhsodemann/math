@@ -41,6 +41,18 @@ Peter køber en bærbar computer i juli og betalte 10.000 kr. for den. Den har m
 3.6: Strømforsyningen til Peters computer ar 6cm høj og 8cm lang. Hvor start er diagonalen på strømforsyningen?
 
 
-##3. Opgave 3 - Peters computer
+##4. Opgave 4 - Peters klasse
+Peter går i 9. klasse og der er i alt 22 elever i klaassen. Der er lige mange piger og drenge i klassen. Klassen har lavet en undersøgelse af hvilke computere eleverne i klassen har og det gav følgende tal:
+1. Windows PC:  9
+2. Mac:         7
+
+4.1: Hvor mange procent af eleverne har en computer?
+
+4.2: Hvor mange procent af eleverne har en Mac?
+
+4.3: Der er 4 piger der har en Windows PC og 4 piger der har en Mac. Hvor stor procentandel af klassen udgør drenge med en Windows PC?
+
+
+
 
 
