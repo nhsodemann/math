@@ -9,4 +9,4 @@ Alle bidrag til rettelser, nye opgaver samt løsningssæt er velkomne
 
 ## License
 
-Opgavesær er open sourced under [CC0] (http://creativecommons.org/publicdomain/zero/1.0/).
+Opgavesæt er open sourced under [CC0] (http://creativecommons.org/publicdomain/zero/1.0/).
