@@ -15,9 +15,24 @@ Peter havde et fritidsjob som avisbud i 2011 og har aftalt at han får en timel�
 1.5: Peter har lært, at et frikort er et skattekort til dem, der ikke tjener så meget. Alle kan nemlig tjene et bestemt beløb, uden at skulle betale skat. Dette beløb kaldes personfradraget. Af frikortet fremgår hvor meget man må tjene i løbet af året, før man skal betale skat. Hvis man kommer til at tjene mere, skal man have et rigtigt skattekort. I 2011 må man tjene 32.200 kroner, hvis man er under 18 år, og 42.900 kroner, hvis man er over 18 år, før man skal betale skat. Bundskat, der er på 3,67% af al indkomst over personfradraget, fraregnet det beløb der allerede er betalt i bruttoskat. Hvor meget vil Peter få udbetalt hvis han arbejder 650 timer i 2011?
 
 
-##1. Opgave 2 - Peters opsparing
-Peter har fået en opsparingskonto i sin bank, som giver en rente på 2% pro anno.
+##2. Opgave 2 - Peters opsparing
+Peter har en opsparingskonto i sin bank, som giver en rente på 2% pro anno.
 
 2.1: Hvor meget tilskrives i rente på Peters konto i løbet af 2011 af det beløb han fik udbetalt i januar 2011?
+
+2.2: Peter havde tilbage fra januar 2009 10.000 kr. på sin konto. Hvor meget står der på Peters konto i starten af 2011?
+
+2.3 Hvor meget mangler Peter for at købe den computer han ønsker sig?
+
+
+##3. Opgave 3 - Peters computer
+Peter køber en bærbar computer i i juli. Den har målene 21,5cm x 32,3cm x 1,4cm.
+
+3.1: Tegn Peters computer set ovenfra på millimererpapir
+
+3.2 Hvor start er arealet af Peters computer?
+
+3.3: Hvad er rumfanget af Peters computer?
+
 
 
