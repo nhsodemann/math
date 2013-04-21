@@ -18,4 +18,6 @@ Peter havde et fritidsjob som avisbud i 2011 og har aftalt at han får en timel�
 ##1. Opgave 2 - Peters opsparing
 Peter har fået en opsparingskonto i sin bank, som giver en rente på 2% pro anno.
 
-2.1: Hvor meget tilskrives i rente på Peters konto i løbet af 2011 af 
+2.1: Hvor meget tilskrives i rente på Peters konto i løbet af 2011 af det beløb han fik udbetalt i januar 2011?
+
+
