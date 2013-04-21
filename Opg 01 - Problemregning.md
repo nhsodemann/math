@@ -22,7 +22,7 @@ Peter har en opsparingskonto i sin bank, som giver en rente på 2% pro anno.
 
 2.2: Peter havde tilbage fra januar 2009 10.000 kr. på sin konto. Hvor meget står der på Peters konto i starten af 2011?
 
-2.3 Hvor meget mangler Peter for at købe den computer han ønsker sig?
+2.3: Hvor meget mangler Peter for at købe den computer han ønsker sig?
 
 
 ##3. Opgave 3 - Peters computer
