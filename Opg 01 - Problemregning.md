@@ -6,7 +6,7 @@ Peter havde et fritidsjob som avisbud i 2011 og har aftalt at han får en timel�
 
 1.1: Peter arbejdede i alt 27 timer i januar måned. Hvad er hans løn i januar?
 
-1.2: Peter ønsker sig en ny computer som han vi sparer op til. Den koster 12.000 kr. Hvor mange timer skal arbejde for for at kunne købe den computer han ønsker sig?
+1.2: Peter ønsker sig en ny computer som han vi sparer op til. Den koster 12.000 kr. Hvor mange timer skal arbejde for at kunne købe den computer han ønsker sig?
 
 1.3: Peter har fået sin første løn for januar og her kan han se at der er trukket 8% i arbejdsmarkedsbidrag som også kaldes bruttoskat. Peters løn i januar var 1.000 kr., og der er så trukket Arbejdsmarkedsbidrag på 8% eller 80 kr. Peter har fået af vide at alle skal betale Abrejdsmarkedsbidrag selvom man har fået et frikort. Hvor meget får Peter udbetalt i januar?
 
@@ -30,7 +30,7 @@ Peter køber en bærbar computer i juli og betalte 10.000 kr. for den. Den har m
 
 3.1: Peter fik 20% rabat da han købte computeren. Hvad kostede den før rabatten?
 
-3.2: Tegn Peters computer set ovenfra på millimererpapir
+3.2: Tegn Peters computer set ovenfra på millimeterpapir
 
 3.3: Hvor start er arealet af Peters computer?
 
@@ -42,7 +42,7 @@ Peter køber en bærbar computer i juli og betalte 10.000 kr. for den. Den har m
 
 
 ##4. Opgave 4 - Peters klasse
-Peter går i 9. klasse og der er i alt 22 elever i klaassen. Der er lige mange piger og drenge i klassen. Klassen har lavet en undersøgelse af hvilke computere eleverne i klassen har og det gav følgende tal:
+Peter går i 9. klasse og der er i alt 22 elever i klassen. Der er lige mange piger og drenge i klassen. Klassen har lavet en undersøgelse af hvilke computere eleverne i klassen har og det gav følgende tal:
 1. Windows PC:  9
 2. Mac:         7
 
