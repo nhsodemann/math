@@ -26,7 +26,7 @@ Peter har en opsparingskonto i sin bank, som giver en rente på 2% pro anno.
 
 
 ##3. Opgave 3 - Peters computer
-Peter køber en bærbar computer i juli og betalte 10.000 kr. for den. Den har målene 21,5cm x 32,3cm x 1,4cm.
+Peter køber en bærbar computer i juli og betalte 10.000 kr. for den. Den har målene 21,5 cm x 32,3 cm x 1,4 cm.
 
 3.1: Peter fik 20% rabat da han købte computeren. Hvad kostede den før rabatten?
 
@@ -38,7 +38,7 @@ Peter køber en bærbar computer i juli og betalte 10.000 kr. for den. Den har m
 
 3.5: Den computer Peter købte kunne får i 3 forskellige farver, med Windows eller Linux og med tre forskellige harddisk størrelser. Hvor mange forskellige kombinationer kunne Peter vælge i mellem?
 
-3.6: Strømforsyningen til Peters computer ar 6cm høj og 8cm lang. Hvor lang er diagonalen på strømforsyningen?
+3.6: Strømforsyningen til Peters computer ar 6 cm høj og 8 cm lang. Hvor lang er diagonalen på strømforsyningen?
 
 
 ##4. Opgave 4 - Peters klasse
@@ -54,7 +54,7 @@ Peter går i 9. klasse og der er i alt 22 elever i klassen. Der er lige mange pi
 
 
 ##5. Opgave 5 - Peters yatzy spil
-Peter har en yatzy spil med 6 terninger som alle er kubiske og med en sidehøjde på 2cm.
+Peter har en yatzy spil med 6 terninger som alle er kubiske og med en sidehøjde på 2 cm.
 
 5.1: Hvad er forudsætningen for, at en figur kan siges at være kubisk?
 
