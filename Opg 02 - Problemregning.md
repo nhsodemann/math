@@ -16,13 +16,13 @@ Klubben voksede hurtigt. Ved 25-års jubilæet i 1891 var der ca. 900 medlemmer,
 1.6: Hvor stor var faldet i procent?
 
 ##2. Opgave 2 – Indtægter og udgifter i KDY
-Klubbens primære indtægt er kontingenter fra medlemmerne som er fastlagt som følger
-Årskontingent/senior (fra 1.10.12)                   1.665 kr.
-Ægtefælle                                                        555 kr.  
-Ungdom                                                        1.110 kr.
-Ungdom Uddannelsesbeløb                                  555 kr.
-Danmark uden for Sjælland                                1.110 kr.
-Pensionist over 60 år og 25 års medlemskab        1.110 kr.
+Klubbens primære indtægt er kontingenter fra medlemmerne som er fastlagt som følger:
+- Årskontingent/senior (fra 1.10.12)                1.665 kr.
+- Ægtefælle                                           555 kr.  
+- Ungdom                                            1.110 kr.
+- Ungdom Uddannelsesbeløb                             555 kr.
+- Danmark uden for Sjælland                         1.110 kr.
+- Pensionist over 60 år og 25 års medlemskab        1.110 kr.
 
 2.1: Ungdomsmedlemmer som også benytter klubbens uddannelsesforløb skal betale ungdom + ungdom uddannelsesbeløb. Hvad er det samlede årlige kontingent for en senior samt et ungdomsmedlem der også benytter uddannelsesforløbet?
 
@@ -31,6 +31,7 @@ Pensionist over 60 år og 25 års medlemskab        1.110 kr.
 - Ungdomskontingenter		192.838
 - Firmakontingenter		278.910
 - Indtrædelsesgebyrer		37.283
+
 Hvor mange seniormedlemmer, henholdsvis ungdomsmedlemmer skal der være i klubben i 2012/13 for at have minimum samme kontingent som i 2011/12
 
 2.3: KDYshoppen.dk sælger forskellige klubeffekter, f.eks. flag, standere og tøj. KDY havde i 2011/12 en samlet omsætning på 253.764 og et vareforbrug på 214.101. Hvor stort var nettoresultatet i KDYshoppen.dk?
@@ -39,6 +40,7 @@ Hvor mange seniormedlemmer, henholdsvis ungdomsmedlemmer skal der være i klubbe
 
 ##3. Opgave 3 – Klubbens både
 KDY ejer en række forskellige bådtyper. En af dem er Ynglingen som er en tre personers kølbåd som bla. har været brugt som kølbåd for kvinder ved de Olympiske lege i 2004 og 2008. Ynglingen er 6,35 m lang og vejer 645 kg.
+![Yngling](http://yachtpals.com/files/news/yngling.png "Yngling")
 
 3.1: Ynglingen har en køl med er kerne der er lavet af jern og som vejer 315 kg. Jerns massefylde er 7,86 g/cm3. Hvad er rumfanget af Ynglingens jernkerne?
 
@@ -52,6 +54,3 @@ KDY ejer en række forskellige bådtyper. En af dem er Ynglingen som er en tre p
 
 ##4. Opgave 4 – Kapsejladsbanen
 
-
-
-![Alt text](http://yachtpals.com/files/news/yngling.png "Optional title")
