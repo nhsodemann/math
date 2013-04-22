@@ -32,7 +32,7 @@ Peter køber en bærbar computer i juli og betalte 10.000 kr. for den. Den har m
 
 3.2: Tegn Peters computer set ovenfra på millimeterpapir
 
-3.3: Hvor start er arealet af Peters computer?
+3.3: Hvor stort er arealet af Peters computer?
 
 3.4: Hvad er rumfanget af Peters computer?
 
