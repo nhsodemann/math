@@ -17,20 +17,20 @@ Klubben voksede hurtigt. Ved 25-års jubilæet i 1891 var der ca. 900 medlemmer,
 
 ##2. Opgave 2 – Indtægter og udgifter i KDY
 Klubbens primære indtægt er kontingenter fra medlemmerne som er fastlagt som følger:
-- Årskontingent/senior (fra 1.10.12)                1.665 kr.
-- Ægtefælle                                           555 kr.  
-- Ungdom                                            1.110 kr.
-- Ungdom Uddannelsesbeløb                             555 kr.
-- Danmark uden for Sjælland                         1.110 kr.
-- Pensionist over 60 år og 25 års medlemskab        1.110 kr.
+- Årskontingent/senior (fra 1.10.12): 1.665 kr.
+- Ægtefælle: 555 kr.  
+- Ungdom: 1.110 kr.
+- Ungdom Uddannelsesbeløb: 555 kr.
+- Danmark uden for Sjælland: 1.110 kr.
+- Pensionist over 60 år og 25 års medlemskab: 1.110 kr.
 
 2.1: Ungdomsmedlemmer som også benytter klubbens uddannelsesforløb skal betale ungdom + ungdom uddannelsesbeløb. Hvad er det samlede årlige kontingent for en senior samt et ungdomsmedlem der også benytter uddannelsesforløbet?
 
 2.2: I regnskabsperioden 2011/12 var det samlede kontingent i klubben 2.846.405 og fordelt som følger:
-- Ordinære kontingenter   	2.337.375
-- Ungdomskontingenter		192.838
-- Firmakontingenter		278.910
-- Indtrædelsesgebyrer		37.283
+- Ordinære kontingenter: 2.337.375 kr.
+- Ungdomskontingenter: 192.838 kr.
+- Firmakontingenter: 278.910 kr.
+- Indtrædelsesgebyrer: 37.283 kr.
 
 Hvor mange seniormedlemmer, henholdsvis ungdomsmedlemmer skal der være i klubben i 2012/13 for at have minimum samme kontingent som i 2011/12
 
@@ -53,4 +53,4 @@ KDY ejer en række forskellige bådtyper. En af dem er Ynglingen som er en tre p
 3.5: Aluminiums massefylde er 2,70 g/cm3. Tykkelsen af materialet i masten er 6 mm. Hvor meget vejer Ynglingens mast?
 
 ##4. Opgave 4 – Kapsejladsbanen
-
+![Kapsejladsbaner](http://www.aasf.no/upload_images/F8583A6926AB4D4493D1008558E37E87.gif "Kapsejladsbaner")
