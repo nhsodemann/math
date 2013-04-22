@@ -56,7 +56,7 @@ Peter går i 9. klasse og der er i alt 22 elever i klassen. Der er lige mange pi
 ##5. Opgave 5 - Peters yatzy spil
 Peter har en yatzy spil med 6 terninger som alle er kubiske og med en sidehøjde på 2cm.
 
-5.1: Hvad er forudsætningen for at en figur er kubisk?
+5.1: Hvad er forudsætningen for, at en figur kan siges at være kubisk?
 
 5.2: Hvad er det samlede rumfang af Peters terninger?
 
