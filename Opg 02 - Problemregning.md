@@ -58,6 +58,8 @@ Klubbens både benyttes til mange formål, herunder at sejle kapsejlads. På van
 Kapsejladser sejles ofte på enten op/ned eller trekantsbaner som de fremgår herunder og som sejles med en antal runder som angivet.
 ![Kapsejladsbaner](http://www.aasf.no/upload_images/F8583A6926AB4D4493D1008558E37E87.gif "Kapsejladsbaner")
 
+4.1: Jorder er opdelt i 2 x 180 længdegrader og 2 x 90 breddegrader. Længdegraderne start ved 0 grader ved Greenwich i London og går 180 grader mod vest samt 180 grader mod øst. Breddegraderne starter med 0 grader ved ækvator og går til 90 grader, henholdsvis nordlig og sydlig bredde. Breddegrader er opdelt i 60 bueminutter og et bueminut er identisk med en sømil / Nm. Hvor langs er der fra ækvator til nordpolen?
+
 4.2: Ved en given kapsejlads benyttes en op/ned bane hvor afstanden mellem mærke 1 og 2 er 0,8 Nm. Afstanden mellem start og mærke 2 er 0,1 Nm. Afstanden mellem mærke 1 og mål er 0,15 nm. Hvor lang er den givne bane i alt?
 
 4.3: Ved en anden kapsejlads benyttes en trekantsbane bane hvor afstanden mellem mærke 1 og 2 er 1,0 Nm. Afstanden mellem start og mærke 2 er 0,25 Nm. Afstanden mellem mærke 1 og mål er 0,15 nm. Hvor lang er denne bane i alt?
