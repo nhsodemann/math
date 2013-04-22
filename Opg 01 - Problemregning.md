@@ -43,8 +43,8 @@ Peter køber en bærbar computer i juli og betalte 10.000 kr. for den. Den har m
 
 ##4. Opgave 4 - Peters klasse
 Peter går i 9. klasse og der er i alt 22 elever i klassen. Der er lige mange piger og drenge i klassen. Klassen har lavet en undersøgelse af hvilke computere eleverne i klassen har og det gav følgende tal:
-1. Windows PC:  9
-2. Mac:         7
+- Windows PC:  9
+- Mac:         7
 
 4.1: Hvor mange procent af eleverne har en computer?
 
