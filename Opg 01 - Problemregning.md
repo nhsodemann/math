@@ -38,7 +38,7 @@ Peter køber en bærbar computer i juli og betalte 10.000 kr. for den. Den har m
 
 3.5: Den computer Peter købte kunne får i 3 forskellige farver, med Windows eller Linux og med tre forskellige harddisk størrelser. Hvor mange forskellige kombinationer kunne Peter vælge i mellem?
 
-3.6: Strømforsyningen til Peters computer ar 6cm høj og 8cm lang. Hvor start er diagonalen på strømforsyningen?
+3.6: Strømforsyningen til Peters computer ar 6cm høj og 8cm lang. Hvor lang er diagonalen på strømforsyningen?
 
 
 ##4. Opgave 4 - Peters klasse
