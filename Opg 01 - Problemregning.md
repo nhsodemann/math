@@ -6,9 +6,9 @@ Peter havde et fritidsjob som avisbud i 2011 og har aftalt at han får en timel�
 
 1.1: Peter arbejdede i alt 27 timer i januar måned. Hvad er hans løn i januar?
 
-1.2: Peter ønsker sig en ny computer som han vil sparer op til. Den koster 12.000 kr. Hvor mange timer skal arbejde for at kunne købe den computer han ønsker sig?
+1.2: Peter ønsker sig en ny computer som han vil sparer op til. Den koster 12.000 kr. Hvor mange timer skal han arbejde for at kunne købe den computer han ønsker sig?
 
-1.3: Peter har fået sin første løn for januar og her kan han se at der er trukket 8% i arbejdsmarkedsbidrag som også kaldes bruttoskat. Peters løn i januar var 1.000 kr., og der er så trukket Arbejdsmarkedsbidrag på 8% eller 80 kr. Peter har fået af vide at alle skal betale Abrejdsmarkedsbidrag selvom man har fået et frikort. Hvor meget får Peter udbetalt i januar?
+1.3: Peter har fået sin første løn for januar og her kan han se at der er trukket 8% i arbejdsmarkedsbidrag som også kaldes bruttoskat. Peters løn i januar var 1.000 kr., og der er så trukket Arbejdsmarkedsbidrag på 8% eller 80 kr. Peter har fået af vide at alle skal betale Arbejdssmarkedsbidrag selvom man har fået et frikort. Hvor meget får Peter udbetalt i januar?
 
 1.4: Hvor mange timer skal Peter arbejde for at få råd til den computer han ønsker sig?
 
