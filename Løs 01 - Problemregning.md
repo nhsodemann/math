@@ -1,6 +1,5 @@
 #Løsninger til Opgavesæt 1 - Problemregning svarende til FSA for 9. klasse
 
-test
 ##1. Opgave 1 - Peters job som avisbud
 
 1.1: 27 timer gange 55,32 kr. / time = 1.493,64 kr.
