@@ -43,15 +43,14 @@
 
 4.2: 7 / 22 = 0,32 = 32%
 
-4.3: 
-
+4.3: Drenge har 9 – 4 = 5 Windows PC’er. 5 / 22 = 0,23 = 23%
 
 ##5. Opgave 5 - Peters yatzy spil
 
-5.1: 
+5.1: en tredimensional geometrisk figur der begrænses af seks lige store kvadratiske sideflader, og hvor alle vinkler mellem tilstødende sideflader er 90 grader
 
-5.2: 
+5.2: 6 x 2^3 = 6 x 8 = 48 cm3
 
-5.3: 
+5.3: 6 x 6 x 2 cm x 2 cm = 144 cm2
 
-5.4:
+5.4: 6 x 6 x 6 x 6 x 6 x 6 = 6^6 = 46.656
