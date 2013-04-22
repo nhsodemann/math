@@ -1,1 +1,1 @@
-![Alt text](/path/to/img.jpg "Optional title")
+![Alt text](http://yachtpals.com/files/news/yngling.png "Optional title")
