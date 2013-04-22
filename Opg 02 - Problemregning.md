@@ -58,7 +58,7 @@ Klubbens både benyttes til mange formål, herunder at sejle kapsejlads. På van
 Kapsejladser sejles ofte på enten op/ned eller trekantsbaner som de fremgår herunder og som sejles med en antal runder som angivet.
 ![Kapsejladsbaner](http://www.aasf.no/upload_images/F8583A6926AB4D4493D1008558E37E87.gif "Kapsejladsbaner")
 
-4.1: Ved en given kapsejlads benyttes en op/ned bane hvor afstanden mellem mærke 1 og 2 er 0,8 Nm. Afstanden mellem start og mærke 2 er 0,1 Nm. Afstanden mellem mærke 1 og mål er 0,15 nm. Hvor lang er den givne bane i alt?
+4.2: Ved en given kapsejlads benyttes en op/ned bane hvor afstanden mellem mærke 1 og 2 er 0,8 Nm. Afstanden mellem start og mærke 2 er 0,1 Nm. Afstanden mellem mærke 1 og mål er 0,15 nm. Hvor lang er den givne bane i alt?
 
-4.2: Ved en anden kapsejlads benyttes en trekantsbane bane hvor afstanden mellem mærke 1 og 2 er 1,0 Nm. Afstanden mellem start og mærke 2 er 0,25 Nm. Afstanden mellem mærke 1 og mål er 0,15 nm. Hvor lang er denne bane i alt?
+4.3: Ved en anden kapsejlads benyttes en trekantsbane bane hvor afstanden mellem mærke 1 og 2 er 1,0 Nm. Afstanden mellem start og mærke 2 er 0,25 Nm. Afstanden mellem mærke 1 og mål er 0,15 nm. Hvor lang er denne bane i alt?
 
