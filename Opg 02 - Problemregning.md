@@ -32,7 +32,7 @@ Klubbens primære indtægt er kontingenter fra medlemmerne som er fastlagt som f
 - Firmakontingenter: 278.910 kr.
 - Indtrædelsesgebyrer: 37.283 kr.
 
-Hvor mange seniormedlemmer, henholdsvis ungdomsmedlemmer skal der være i klubben i 2012/13 for at have minimum samme kontingent som i 2011/12
+Hvor mange seniormedlemmer, henholdsvis ungdomsmedlemmer skal der være i klubben i 2012/13 for at have minimum samme ordinære- og ungdomskontingent som i 2011/12
 
 2.3: KDYshoppen.dk sælger forskellige klubeffekter, f.eks. flag, standere og tøj. KDY havde i 2011/12 en samlet omsætning på 253.764 og et vareforbrug på 214.101. Hvor stort var nettoresultatet i KDYshoppen.dk?
 
