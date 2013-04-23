@@ -11,7 +11,7 @@ Klubben voksede hurtigt. Ved 25-års jubilæet i 1891 var der ca. 900 medlemmer,
 
 1.4: Hvor stor var stigningen i procent?
 
-1.5: Hvor stor var faldet i antallet af medlemmer fra 1930 til 1983?
+1.5: Hvor stor var faldet i antallet af medlemmer fra 1983 til april 2013?
 
 1.6: Hvor stor var faldet i procent?
 
