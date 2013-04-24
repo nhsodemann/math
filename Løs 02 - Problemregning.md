@@ -1,17 +1,17 @@
 #Opgavesæt 2 - Problemregning svarende til FSA for 9. klasse
 ##1. Opgave 1 – Klubben KDY (Kongelig Dansk Yachtklub)
 
-1.1: 146
+1.1: 2012 - 1866 = 146
 
 1.2: 3. Juli 2016
 
-1.3: 1.700
+1.3: 2.700 - 1.000 = 1.700
 
-1.4: 1.700/1.000 =  170%
+1.4: 1.700 / 1.000 =  170%
 
-1.5: 150
+1.5: 2.700 - 2-550 = 150
 
-1.6: 150/2.700= 5,5%
+1.6: 150 / 2.700= 5,6%
 
 
 ##2. Opgave 2 – Indtægter og udgifter i KDY
