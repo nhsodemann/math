@@ -1,57 +1,74 @@
-#Løsninger til Opgavesæt 1 - Problemregning svarende til FSA for 9. klasse
+#Opgavesæt 2 - Problemregning svarende til FSA for 9. klasse
+##1. Opgave 1 – Klubben KDY (Kongelig Dansk Yachtklub)
 
-##1. Opgave 1 - Peters job som avisbud
+1.1: 146
 
-1.1: 27 timer gange 55,32 kr. / time = 1.493,64 kr.
+1.2: 3. Juli 2016
 
-1.2: 12.000 / 55,32 kr. / time = 216,92 timer
+1.3: 1.700
 
-1.3: 1.493,64 kr. (1 - 0,08) = 1.374,15 kr.
+1.4: 1.700/1.000 =  170%
 
-1.4:  12.000 / 55,32 kr. / time / (1 – 0,08) = 235,78 timer
+1.5: 150
 
-1.5: 650 timer x 55,32 kr. / time = 35.958 kr. Af de første 32.200 betales 8% i bruttoskat = 2.576 kr. Af de resterende 35.958 kr. – 32.200 kr. = 3.758 kr. betales 8% + 3,67% = 11,67%. Dvs. 438,56 kr. Peter betaler således 2.576 kr. + 438,56 kr. = 3.014,56 kr. i alt i skat. Han får derfor udbetalt 35.958 kr. – 3.014.56 kr. = 32.943,44 kr.
-
-
-##2. Opgave 2 - Peters opsparing
-
-2.1: 1.374,15 kr. x 2/100 (2%) = 27,48
-
-2.2: 10.000 kr. x 1,02 (2%) = 10.200 kr.
-
-2.3: 12.000 kr. – 10.200 kr. - 1.374,15 = 425,85 kr.
+1.6: 150/2.700= 5,5%
 
 
-##3. Opgave 3 - Peters computer
+##2. Opgave 2 – Indtægter og udgifter i KDY
 
-3.1:  10.000 kr. / (1-0,20) = 12.500 kr.
+2.1: 
 
-3.2:  [tegn]
+2.2: 
 
-3.3: 21,5 cm x 32,3 cm = 694,45 cm2
+2.3: 
 
-3.4: 21,5 cm x 32,3 cm x 1,4 cm = 972,23 cm3
+2.4: 
 
-3.5: 3 x 2 x 3 kombinationer = 18 forskellige kombinationer
+##3. Opgave 3 – Klubbens både
 
-3.6:  Kvadratrod(6^2 + 8^2) = Kvadratrod(36 + 64) = Kvadratrod(100) = 10 cm
+3.1: 
+
+3.2: 
+
+3.3: 
+
+3.4: 
+
+3.5: 
 
 
-##4. Opgave 4 - Peters klasse
+##4. Opgave 4 – Kapsejladsbanen
 
-4.1: (7+9) / 22 = 0,73 = 73%
+4.1: 
 
-4.2: 7 / 22 = 0,32 = 32%
+4.2: 
 
-4.3: Drenge har 9 – 4 = 5 Windows PC’er. 5 / 22 = 0,23 = 23%
+4.3: 
 
-##5. Opgave 5 - Peters yatzy spil
 
-5.1: en tredimensional geometrisk figur der begrænses af seks lige store kvadratiske sideflader, og hvor alle vinkler mellem tilstødende sideflader er 90 grader
-
-5.2: 6 x 2^3 = 6 x 8 = 48 cm3
-
-5.3: 6 x 6 x 2 cm x 2 cm = 144 cm2
-
-5.4: 6 x 6 x 6 x 6 x 6 x 6 = 6^6 = 46.656
-
+.1) 146
+1.2) 3. Juli 2016
+1.3) 1.700
+1.4) 1.700/1.000 =  170%
+1.5) 150
+1.6) 150/2.700= 5,5%
+2.1) 1.665+1.110+555 = 3.330 kr
+2.2) 2.337.375/1.665 = 1.404 ordinære kontingenter
+       192.838/1.110 = 174 ungdomskontingenter
+2.3) 253.764-214.101 =  39.663 kr
+2.4) 39.663/253.764 =  15,6%
+3.1) 315.000/7,86 =  40.076,3 cm3
+3.2) 6800*2600/2 = 8.840.000 mm2
+        5300*1950/2 = 5.167.500 mm2
+            8.840.000+5.167.500 = 14.007.500 mm2 = 14,0075 m2
+3.3) 6,82+2,62= 53 = 7,282m
+3.4) π*8,8*83 = 2.294,6 cm2     
+3.5)  π*4,42= 60,8 cm2
+         π *4,12= 52,8 cm2
+         60,8*830=50.481,6 cm3
+         52,8*830=43.832,4 cm3
+         50.481,6-43.832,4= 6.649,2 cm3
+         6.649,2/2,7= 2.462,6 g
+4.1) 60*90= 5.400 nm 
+4.2) 0,8+0,1+0,15 = 1,05 nm
+4.3) 1+0,25+0,15= 1,4 nm
