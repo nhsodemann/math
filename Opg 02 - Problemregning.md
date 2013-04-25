@@ -48,7 +48,7 @@ KDY ejer en række forskellige bådtyper. En af dem er Ynglingen som er en tre p
 
 3.3: Storsejlets agterlig er den bagerste del af sejlet og den længste side i den retvinklede trekant. Hvor langt er agterliget på Ynglingens storsejl?
 
-3.4: Masten på en Yngling er lavet af aluminium og kan beskrives som et cylinderformet rør med en højde på 8300 mm og med en ydre diameter på 88 mm. Hvor start er den samlede overflade af masten?
+3.4: Masten på en Yngling er lavet af aluminium og kan beskrives som et cylinderformet rør med en højde på 8300 mm og med en ydre diameter på 88 mm. Hvor stor er den samlede overflade af masten?
 
 3.5: Aluminiums massefylde er 2,70 g/cm3. Tykkelsen af materialet i masten er 6 mm. Hvor meget vejer Ynglingens mast?
 
