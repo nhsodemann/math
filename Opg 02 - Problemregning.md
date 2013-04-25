@@ -32,7 +32,7 @@ Klubbens primære indtægt er kontingenter fra medlemmerne som er fastlagt som f
 - Firmakontingenter: 278.910 kr.
 - Indtrædelsesgebyrer: 37.283 kr.
 
-Hvor mange seniormedlemmer, henholdsvis ungdomsmedlemmer skal der være i klubben i 2012/13 for at have minimum samme ordinære- og ungdomskontingenter som i 2011/12
+Hvor mange seniormedlemmer, henholdsvis ungdomsmedlemmer skal der være i klubben i 2012/13 for at have minimum samme ordinære- og ungdomskontingenter (inkl. Uddannelsesbeløb) som i 2011/12
 
 2.3: KDYshoppen.dk sælger forskellige klubeffekter, f.eks. flag, standere og tøj. KDY havde i 2011/12 en samlet omsætning på 253.764 og et vareforbrug på 214.101. Hvor stort var nettoresultatet i KDYshoppen.dk?
 
@@ -42,9 +42,9 @@ Hvor mange seniormedlemmer, henholdsvis ungdomsmedlemmer skal der være i klubbe
 KDY ejer en række forskellige bådtyper. En af dem er Ynglingen som er en tre personers kølbåd som bla. har været brugt som kølbåd for kvinder ved de Olympiske lege i 2004 og 2008. Ynglingen er 6,35 m lang og vejer 645 kg.
 ![Yngling](http://yachtpals.com/files/news/yngling.png "Yngling")
 
-3.1: Ynglingen har en køl med er kerne der er lavet af jern og som vejer 315 kg. Jerns massefylde er 7,86 g/cm3. Hvad er rumfanget af Ynglingens jernkerne?
+3.1: Ynglingen har en køl med en kerne, der er lavet af jern og som vejer 315 kg. Jerns massefylde er 7,86 g/cm3. Hvad er rumfanget af Ynglingens jernkerne?
 
-3.2: Ynglingen har to primære sejl et storsejl og en fok. Begge sejl kan i deres plan ses som retvinklede trekanter. Storsejlet må maksimalt være 6800 mm høj og 2600 mm bred. Fokken må maksimalt være 5300 mm høj og 1950 mm bred. Hvad er det maksimale sejlareal på ynglingen?
+3.2: Ynglingen har to primære sejl, et storsejl og en fok. Begge sejl kan i deres plan ses som retvinklede trekanter. Storsejlet må maksimalt være 6800 mm høj og 2600 mm bred. Fokken må maksimalt være 5300 mm høj og 1950 mm bred. Hvad er det maksimale sejlareal på ynglingen?
 
 3.3: Storsejlets agterlig er den bagerste del af sejlet og den længste side i den retvinklede trekant. Hvor langt er agterliget på Ynglingens storsejl?
 
@@ -54,14 +54,14 @@ KDY ejer en række forskellige bådtyper. En af dem er Ynglingen som er en tre p
 
 
 ##4. Opgave 4 – Kapsejladsbanen
-På vandet har man siden gammel tid benyttet et længdemål som kaldes sømil. En sømil er 1852,00 meter og har enheden Nm (fra det engelske Nautical mile).
+På vandet har man siden gammel tid benyttet et længdemål, som kaldes sømil. En sømil er 1852,00 meter og har enheden Nm (fra det engelske Nautical mile).
 
-4.1: Jorder er opdelt i 2 x 180 længdegrader og 2 x 90 breddegrader. Længdegraderne start ved 0 grader ved Greenwich i London og går 180 grader mod vest samt 180 grader mod øst. Breddegraderne starter med 0 grader ved ækvator og går til 90 grader, henholdsvis nordlig og sydlig bredde. Breddegrader er opdelt i 60 bueminutter og et bueminut er identisk med en sømil / Nm. Hvor langs er der fra ækvator til nordpolen?
+4.1: Jorden er opdelt i 2 x 180 længdegrader og 2 x 90 breddegrader. Længdegraderne start ved 0 grader ved Greenwich i London og går 180 grader mod vest samt 180 grader mod øst. Breddegraderne starter med 0 grader ved ækvator og går til 90 grader, henholdsvis nordlig og sydlig bredde. Breddegrader er opdelt i 60 bueminutter og et bueminut er identisk med en sømil / Nm. Hvor langt er der fra ækvator til nordpolen?
 
 4.2: Klubbens både benyttes til mange formål, herunder at sejle kapsejlads. 
-Kapsejladser sejles ofte på enten op/ned eller trekantsbaner som de fremgår herunder og som sejles med en antal runder som angivet.
+Kapsejladser sejles ofte på enten op/ned eller trekantsbaner som de fremgår herunder og som sejles med en antal runder som angivet i figuren herunder.
 ![Kapsejladsbaner](http://www.aasf.no/upload_images/F8583A6926AB4D4493D1008558E37E87.gif "Kapsejladsbaner")
 
-Ved en given kapsejlads benyttes en op/ned bane hvor afstanden mellem mærke 1 og 2 er 0,8 Nm. Afstanden mellem start og mærke 2 er 0,1 Nm. Afstanden mellem mærke 1 og mål er 0,15 nm. Hvor lang er den givne bane i alt?
+Ved en given kapsejlads benyttes en op/ned bane hvor afstanden mellem mærke 1 og 2 er 0,8 Nm. Afstanden mellem start og mærke 2 er 0,1 Nm. Afstanden mellem mærke 1 og mål er 0,15 nm. Hvor lang er den samlede omsejlning af den givne bane i alt?
 
-4.3: Ved en anden kapsejlads benyttes en trekantsbane bane hvor afstanden mellem mærke 1 og 2 er 1,0 Nm. Afstanden mellem start og mærke 2 er 0,25 Nm. Afstanden mellem mærke 1 og mål er 0,15 nm. Hvor lang er denne bane i alt?
+4.3: Ved en anden kapsejlads benyttes en trekantsbane bane hvor afstanden mellem mærke 1 og 2 er 1,0 Nm. Afstanden mellem start og mærke 2 er 0,25 Nm. Afstanden mellem mærke 1 og mål er 0,15 nm. Hvor lang er den samlede omsejlning af denne bane i alt??
