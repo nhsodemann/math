@@ -15,9 +15,9 @@
 
 ##2. Opgave 2 - Peters opsparing
 
-2.1: 1.374,15 kr. x 2/100 (2%) = 27,48
+2.1: 1.374,15 kr. * 2/100 (2%) = 27,48
 
-2.2: 10.000 kr. x 1,02 (2%) = 10.200 kr.
+2.2: 10.000 kr. * 1,02 (2%) = 10.200 kr.
 
 2.3: 12.000 kr. – 10.200 kr. - 1.374,15 = 425,85 kr.
 
@@ -28,11 +28,11 @@
 
 3.2:  [tegn]
 
-3.3: 21,5 cm x 32,3 cm = 694,45 cm2
+3.3: 21,5 cm * 32,3 cm = 694,45 cm2
 
-3.4: 21,5 cm x 32,3 cm x 1,4 cm = 972,23 cm3
+3.4: 21,5 cm * 32,3 cm * 1,4 cm = 972,23 cm3
 
-3.5: 3 x 2 x 3 kombinationer = 18 forskellige kombinationer
+3.5: 3 * 2 * 3 kombinationer = 18 forskellige kombinationer
 
 3.6:  Kvadratrod(6^2 + 8^2) = Kvadratrod(36 + 64) = Kvadratrod(100) = 10 cm
 
@@ -49,8 +49,8 @@
 
 5.1: en tredimensional geometrisk figur der begrænses af seks lige store kvadratiske sideflader, og hvor alle vinkler mellem tilstødende sideflader er 90 grader
 
-5.2: 6 x 2^3 = 6 x 8 = 48 cm3
+5.2: 6 * 2^3 = 6 * 8 = 48 cm3
 
-5.3: 6 x 6 x 2 cm x 2 cm = 144 cm2
+5.3: 6 * 6 * 2 cm * 2 cm = 144 cm2
 
-5.4: 6 x 6 x 6 x 6 x 6 x 6 = 6^6 = 46.656
+5.4: 6 * 6 * 6 * 6 * 6 * 6 = 6^6 = 46.656
